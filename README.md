@@ -19,7 +19,7 @@
 
 - Moving on towards the devices used by the reviewers. Desktop and Mobile were the most used device to write a review in, which makes sense and Tablet fell down to last place.
 
-##### Top devices used
+#### Top devices used
 
 <img src="images/total_count_response_type.png" width="400">
 
@@ -43,4 +43,4 @@ not happy. To combat this there might be a need to gather more data on not happy
 
 <img src="images/n-gram_analysis.png" width="400">
 
--
+- Reviewers mostly talking about the fronk desk, first point of contact and also of the staff members. Also more review regarding the room that they were staying on. 
