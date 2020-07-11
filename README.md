@@ -7,7 +7,7 @@
 
 **Info about the model:** 
 - Bi-directional LSTM was used to train the model. 
-- Accuracy was 78% on validaiton set. Works well with long reviews, will have a little issue with short reviews.
+- Accuracy was 78% on validaiton set. Works well with long reviews. Will struggle a bit on short reviews.
 - Has some issues classifying bad reviews sometimes, due to lack of negative review data. 
 
 <img src="images/video_demo.gif" width="700">
