@@ -5,6 +5,10 @@
 
 *Live project link may take a few seconds to load*
 
+
+<a href="https://gyazo.com/b7a4386c81f884239c50761916612a84"><img src="https://i.gyazo.com/b7a4386c81f884239c50761916612a84.gif" alt="Image from Gyazo" width="802.5"/></a>
+
+
 ### Exploratory Data analysis
 
 #### Browsers used data
