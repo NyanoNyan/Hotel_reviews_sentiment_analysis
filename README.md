@@ -1,9 +1,10 @@
 # Hotel reviews prediction using Sentiment Analysis
 
-- Hotel review dataset : https://www.kaggle.com/anu0012/hotel-review
-- View live project: https://sentiment-prediction-review.herokuapp.com/
+- Hotel review dataset : <a href="https://www.kaggle.com/anu0012/hotel-review">https://www.kaggle.com/anu0012/hotel-review</a>
+- View live project: <a href="https://sentiment-prediction-review.herokuapp.com/">https://sentiment-prediction-review.herokuapp.com/</a>
 
 *Live project link may take a few seconds to load*
+
 
 **Info about the model:** 
 - Bi-directional LSTM was used to train the model. 
