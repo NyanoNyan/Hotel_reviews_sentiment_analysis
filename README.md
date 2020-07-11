@@ -41,6 +41,6 @@ not happy. To combat this there might be a need to gather more data on not happy
 
 #### Ngram analysis of four pair words
 
-<img src="images/n-gram_analysis.png" width="400">
+<img src="images/n-gram_analysis.png" width="800">
 
 - Reviewers mostly talking about the fronk desk, first point of contact and also of the staff members. Also more review regarding the room that they were staying on. 
