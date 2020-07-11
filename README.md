@@ -6,7 +6,7 @@
 *Live project link may take a few seconds to load*
 
 
-<a href="https://gyazo.com/b7a4386c81f884239c50761916612a84"><video alt="Video from Gyazo" width="802.5" autoplay muted loop playsinline controls><source src="https://i.gyazo.com/b7a4386c81f884239c50761916612a84.mp4" type="video/mp4" /></video></a>
+<img src="images/video_demo.gif" width="700">
 
 
 ### Exploratory Data analysis
