@@ -54,3 +54,27 @@
 <img src="images/n-gram_analysis.png" width="800">
 
 - Reviewers mostly talking about the fronk desk, first point of contact and also of the staff members. Also more review regarding the room that they were staying in. 
+
+
+#### Fixing the data mismatch issue and the model
+
+- Due to having more positive reviews than negative review. The model which was trained on a bi-directional LSTM was able to predict postive reviews much better and had trouble when negative reviews were written.
+
+- Looking at the classification report below, we can see that the model is only able to recall 63% of the data from 1953 validation data set. For the  positive prediction it is able to recall 83% of the 4236 positive reviews. Overall the model gives 76% accuracy. But fails on negative reviews.
+
+
+<img src="images/classification_report_old.JPG" width="400">
+
+
+- To combat data mismatch I had to get additional data on the negative review. Therefore, I gathered the reviews from this dataset. https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe
+
+
+- After data gathering, the positive and negative data set were checked to have the same amount. In total, 42,218 reviews wer used and 21,109 set were in the positive and negative reviews.
+
+<img src="images/total_count_response_type_2.png" width="400">
+
+1 represents positive review and 0 represents negative reviews.
+
+- After addition of negative data, the bi-directional model was used again. However it's score was worse compared to the previous model. Therefore, a CNN model was used and it provided better results. With an overall accuracy of 83%, which is a huge boost compared to the previous model. With the recall on negative increasing to 83% on 4173 validation set and 82% on the positive review. 
+
+<img src="images/classification_report.JPG" width="400">
