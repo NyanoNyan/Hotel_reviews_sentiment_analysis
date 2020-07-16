@@ -29,7 +29,7 @@
 
 - Moving on towards the devices used by the reviewers. Desktop and Mobile were the most used device to write a review in, which makes sense and Tablet fell to last place.
 
-#### Top devices used
+#### Top Count for response type
 
 <img src="images/total_count_response_type.png" width="400">
 
