@@ -56,7 +56,7 @@
 - Reviewers mostly talking about the fronk desk, first point of contact and also of the staff members. Also more review regarding the room that they were staying in. 
 
 
-#### Fixing the data mismatch issue and the model
+### Fixing the data mismatch issue and the model
 
 - Due to having more positive reviews than negative review. The model which was trained on a bi-directional LSTM was able to predict postive reviews much better and had trouble when negative reviews were written.
 
